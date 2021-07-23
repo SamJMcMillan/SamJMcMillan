@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/SamJMcMillan/SamJMcMillan/main/header.png)
+![Header]()
 
 <h2> Current Technologies <h2>
 
