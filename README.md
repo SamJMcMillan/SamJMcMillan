@@ -1,5 +1,9 @@
 ![Header](https://raw.githubusercontent.com/SamJMcMillan/SamJMcMillan/main/header.png)
 
+<h2> Current Technologies <h2>
+
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+
 <h3> 👨‍🦱 A bit about me <h3>
 <h5> Hi! I'm Sam, a freshly graduated alumni of computer games design. Currently, I'm an aspiring QA Tester, looking to get a foothold in the industry. While my taste in video games varies, my interests as a designer are in compelling co-operative experiences, or laid back single player sandboxes.<h5>
   
