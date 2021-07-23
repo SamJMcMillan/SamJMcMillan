@@ -1,4 +1,3 @@
-![Header](https://raw.githubusercontent.com/SamJMcMillan/SamJMcMillan/main/header.png)
 
 <h2> Current Technologies <h2>
 
