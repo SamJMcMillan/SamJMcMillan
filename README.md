@@ -8,8 +8,8 @@
   
 <h3> 🎮 Games I'm playing <h3>
   
-<h5> When I'm not making video games, I'm all about playing them too! Here's a few that have been taking up my time recently
--
--Supergiant Games (*2018*) Hades
--Obsidian Entertainment (*2010*) Fallout: New Vegas
--Square Enix (*2013*) Final Fantasy XIV: A Realm Reborn <h5>
+<h5> When I'm not making video games, I'm all about playing them too! Here's a few that have been taking up my time recently <h5>
+
+Supergiant Games (*2018*) Hades
+Obsidian Entertainment (*2010*) Fallout: New Vegas
+Square Enix (*2013*) Final Fantasy XIV: A Realm Reborn
