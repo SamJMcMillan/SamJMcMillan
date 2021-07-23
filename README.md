@@ -20,6 +20,6 @@
 <h3> 📘🎧 Other Interests <h3>
 
 <h5> Outside of gaming, I always make time to read. Currently I'm working my way through George Clavell's *Shogun* (1975). <h5>
-<h5> I'm also an avid fan of music! Here's a little sneakpeak into what I'm listening to at any given time <h5>
+<h5> I'm also an avid fan of music! Just like with video games, I keep an open mind and explore a wide selection of genres <h5>
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flammenwerfer25&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
