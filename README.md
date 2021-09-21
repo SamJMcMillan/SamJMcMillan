@@ -15,7 +15,7 @@
 <h5> When I'm not making video games, I'm all about playing them too! Here's a few that have been taking up my time recently <h5>
 
 <h6> Fatshark (2018) Warhammer: Vermintide 2 <h6>
-<h6> Obsidian Entertainment (2010) Fallout: New Vegas <h6>
+<h6> Asobo Studio (2019) A Plague Tale: Innocence <h6>
 <h6> Square Enix (2013) Final Fantasy XIV: A Realm Reborn <h6>
   
 <h3> 📘🎧 Other Interests <h3>
