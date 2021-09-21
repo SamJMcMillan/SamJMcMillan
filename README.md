@@ -17,10 +17,3 @@
 <h6> Fatshark (2018) Warhammer: Vermintide 2 <h6>
 <h6> Asobo Studio (2019) A Plague Tale: Innocence <h6>
 <h6> Square Enix (2013) Final Fantasy XIV: A Realm Reborn <h6>
-  
-<h3> 📘🎧 Other Interests <h3>
-
-<h5> Outside of gaming, I always make time to read. Currently I'm working my way through James Clavell's Shogun (1975). <h5>
-<h5> I'm also an avid fan of music! Just like with video games, I keep an open mind and explore a wide selection of genres. <h5>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=flammenwerfer25&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
